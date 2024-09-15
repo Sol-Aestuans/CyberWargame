@@ -1,4 +1,5 @@
 # Cyber Wargame
+Fork of the first teams effort on the cyber wargame capstone project. This project is deployed on the Poulsbo Cyber Range. Please see the forked repo for wiki information.
 
 ## Notes for setting up
 - Make sure you have the LTS version of Node.js installed.
@@ -8,4 +9,4 @@
 - Generate an API key with full permissions in Strapi and set `STRAPI_API_KEY` in `.env.local` in `frontend`.
 - For further instructions, see the READMEs in the individual directories.
 
-For more information, see the wiki.
+For more information, see the [wiki](https://github.com/WWU-Cyber-Warfare-Game/cyber-wargame/wiki)
